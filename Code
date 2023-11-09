@@ -1,0 +1,9 @@
+#Udemy_Course: Master Python by building 100 projects in 100 days
+#Project_1 : Band Name
+# by, Md Ibrahim Mamun
+
+print("Hello!")
+city = input("Enter your city name: \n")
+pet = input("Enter your pet name: \n")
+
+print("Your Band Name can be: "+city+pet)
